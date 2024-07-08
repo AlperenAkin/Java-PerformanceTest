@@ -1,5 +1,4 @@
-# assignment1-300290090
+# java-storage/performance-test
 Student Name: Alperen Akin
-Student Number: 300290090
-Group Number: 135
-This repository contains all files for assignment 1 of SEG2105
+
+Comparing and analyzing runtime in Java
